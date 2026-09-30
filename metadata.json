@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseIQ - Automated AI Expense Analysis & Classifier",
+  "description": "Automated expense analysis, natural-language classification, and friendly money insights powered by AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
